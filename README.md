@@ -1,4 +1,4 @@
-## 🎥 데모 영상
+## 데모 영상
 
 <p align="center">
   <a href="https://youtube.com/shorts/L80PlBG8_gI?feature=share">
